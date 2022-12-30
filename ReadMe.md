@@ -8,9 +8,9 @@ Inspired by V.E. Zaytcev
 ## Содержание
 
 - Представление википедии в виде графа
-![graph](https://github.com/box1t/1st_course_MAI/blob/main/creative_projects/Wiki_MAI/resources/graph.jpeg)
+![graph](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/resources/graph.jpeg)
 - Файловая структура 
-![struct](https://github.com/box1t/1st_course_MAI/blob/main/creative_projects/Wiki_MAI/resources/struct.jpeg)
+![struct](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/resources/struct.jpeg)
 
 ## Стек используемых технологий
 
@@ -26,4 +26,4 @@ Inspired by V.E. Zaytcev
 - Скачиваем из этого репозитория архив "Computer science (МАИ).7z".
 - Извлекаем содержимое архива и выбираем его в программе для использования.
 ```
-![archive](https://github.com/box1t/1st_course_MAI/blob/main/creative_projects/Wiki_MAI/resources/archive.jpeg)
+![archive](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/resources/archive.jpeg)
