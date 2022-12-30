@@ -1,1 +1,0 @@
-# Moscow_Aviation_Wikipedia
