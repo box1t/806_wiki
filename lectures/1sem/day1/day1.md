@@ -4,8 +4,8 @@
 
 **Термины с лекций**:
 - Число — это слово!
-- [Азбука морзе](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/Азбука%20морзе.md) — `тут можно дополнить`
-- [ASCII](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/terms/ASCII.md)
+- [Азбука Морзе](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/Азбука%20Морзе.md) — `тут можно дополнить`
+- [ASCII](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/ASCII.md)
 - [UNICODE](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/UNICODE.md)
 - [КОИ-8](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/КОИ-8.md) (известен своей почтовой историей)
 - [Аппаратный сканкод](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/Аппаратный%20сканкод.md)  
@@ -15,7 +15,7 @@
 **Термины с лабораторки:**
 - [Логический сдвиг](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/Логический%20сдвиг.md) — `тут можно дополнить`
 - [Арифметический сдвиг](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/Арифметический%20сдвиг.md) — `тут можно дополнить`
-- [GNU Project](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/terms/GNU%20Project.md) — рекурсивный акроним GNU's Not Unix (автор - Ричард Столманн);  
+- [GNU Project](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/GNU%20Project.md) — рекурсивный акроним GNU's Not Unix (автор - Ричард Столманн);  
 - [Скрипт](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/Скрипт.md) 
 - [Бутстреппинг](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/Бутстреппинг.md)
 ***
@@ -139,7 +139,7 @@
 На примере кодов Цезаря понятно, что `p` здесь является ключом кода
 (т.е. число, определяющее величину сдвига алфавита при кодировании).
 
-Другие примеры кодировок - [ASCII](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/terms/ASCII.md), [КОИ-8](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/КОИ-8.md), [UNICODE](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/UNICODE.md).
+Другие примеры кодировок - [ASCII](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/ASCII.md), [КОИ-8](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/КОИ-8.md), [UNICODE](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/UNICODE.md).
 
 На зачёте можете рассказать про ***ASCII*** и про ***UNICODE***.
 > или про то, что запомните). Но что-то точно стоит привести в качестве примера при рассказе о кодировках.
