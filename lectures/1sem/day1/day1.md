@@ -4,7 +4,7 @@
 
 **Термины с лекций**:
 - Число — это слово!
-- [Азбука Морзе](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/Азбука%20Морзе.md) — `тут можно дополнить`
+- [Азбука Морзе](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/Азбука%20Морзе.md)
 - [ASCII](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/ASCII.md)
 - [UNICODE](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/UNICODE.md)
 - [КОИ-8](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/КОИ-8.md) (известен своей почтовой историей)
@@ -13,8 +13,9 @@
 - [***Дональд Кнут***](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/Дональд%20Кнут.md) — американский учёный в области информатики, создатель системы компьютерной полиграфии ТеХ.
 ***
 **Термины с лабораторки:**
-- [Логический сдвиг](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/Логический%20сдвиг.md) — `тут можно дополнить`
-- [Арифметический сдвиг](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/Арифметический%20сдвиг.md) — `тут можно дополнить`
+- [Логический сдвиг](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/Логический%20сдвиг.md) — материал 2 лекции
+- [Арифметический сдвиг](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/Арифметический%20сдвиг.md) — материал 2 лекции
+- [Циклический сдвиг](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/Циклический%20сдвиг.md) — материал 2 лекции
 - [GNU Project](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/GNU%20Project.md) — рекурсивный акроним GNU's Not Unix (автор - Ричард Столманн);  
 - [Скрипт](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/Скрипт.md) 
 - [Бутстреппинг](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/Бутстреппинг.md)
