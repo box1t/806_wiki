@@ -27,8 +27,8 @@ Inspired by V.E. Zaytcev
 # Лекции
 ## Глава 1. Основные понятия информатики
 
-- [День 1. Информация, сообщение](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/day1.md)
-- [День 2. Системы счисления, Unix](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day2/day2.md)
+- [День 1. Информация, сообщение](https://github.com/box1t/806_wiki/blob/main/lectures/1sem/day1/day1.md)
+- [День 2. Системы счисления, Unix](https://github.com/box1t/806_wiki/blob/main/lectures/1sem/day2/day2.md)
 - [День 3. Обработка информации]()
 - [День 4. Дискретные сообщения]()
 
@@ -57,7 +57,7 @@ Inspired by V.E. Zaytcev
 
 
 ## Доп.главы курса 
-- [Противостояние C и Pascal](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/addition/Противостояние%20C%20и%20Pascal.md) — отличная тема для обсуждений!
+- [Противостояние C и Pascal](https://github.com/box1t/806_wiki/blob/main/lectures/1sem/addition/Противостояние%20C%20и%20Pascal.md) — отличная тема для обсуждений!
 
 ## Как всё это выучить?
 
