@@ -1,6 +1,6 @@
 # Computer Science lectures
 
-![221b](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/221%20b.jpg)
+![image](https://user-images.githubusercontent.com/113284506/210866918-eb4c6f09-25e2-411f-833c-2d9ff4cf6181.png)
 
 
 ## О содержании
