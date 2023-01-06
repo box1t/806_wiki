@@ -31,8 +31,8 @@
 ***
 
 **Термины с лабораторки:**
-- [Обратный код](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/Обратный%20код.md)
-- [Дополнительный код](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day1/Дополнительный%20код.md)
+- [Обратный код](/lectures/1sem/day1/Обратный%20код.md)
+- [Дополнительный код](/lectures/1sem/day1/Дополнительный%20код.md)
 
 ***
 
