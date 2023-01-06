@@ -25,9 +25,11 @@ Inspired by V.E. Zaytcev
 ```
 - Для связи с автором конспектов [![Телеграмм](https://img.shields.io/badge/Пиши-В%20Telegram-0088cc)](https://t.me/hukumkass)
 
+<a name="exam"></a>
+
 # Вопросы экзамена
 
-<a name="exam"></a>
+
 
 - [Декабрьский зачёт](/lectures/1sem/december_zachet.md)
 - [Январь. Архитектура компьютера](/lectures/1sem/exam_zhelezo.md)
@@ -37,9 +39,12 @@ Inspired by V.E. Zaytcev
 - [День 16. Консультация к экзамену](/lectures/1sem/day16/day16.md)
 
 ***
-# Лекции
 
 <a name="lections"></a>
+
+# Лекции
+
+
 
 ## Глава 1. Основные понятия информатики
 
