@@ -5,6 +5,8 @@
 **Термины с лекции:**
 
 ***
+
+- [Сборка программ на C](https://acm.bsu.by/wiki/C2017/Сборка_программ_на_C)
 - [Библиотеки](https://blog.skillfactory.ru/glossary/biblioteka/)
 - [Система программирования](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day2/Система%20программирования.md)
 - [Оператор](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day6/Оператор.md)
@@ -13,6 +15,7 @@
 - ***Языковая среда*** — это интерпретативные компоненты ЯП (!).
 
 ***
+
 - [Компилятор](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day2/Компилятор.md) — то же, что и ***транслятор***!
 - ***Компиляция*** — перевод текста программы с исходного формального языка на более простой язык. 
 - ***Компоновщик*** (линкер) связывает все объектные файлы и статические библиотеки в единый исполняемый файл, который мы и сможем запустить в дальнейшем.
@@ -20,6 +23,7 @@
 - [Докер](https://cloud.yandex.ru/blog/posts/2022/03/docker-containers)
 
 ***
+
 - [Интерпретатор](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day2/Интерпретатор.md) — или ***отладчик***
 - [Отладка и её методы](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day6/Отладка.md)
 - [Тестирование и отладка](https://github.com/box1t/Moscow_Aviation_Wikipedia/blob/main/lectures/1sem/day6/Тестирование%20и%20отладка.md)
@@ -27,6 +31,7 @@
 ***
 - [Премия Тьюринга](https://ru.zahn-info-portal.de/wiki/Turing_Award) — высшая награда в информатике.
 - [Язык Brainfuck](https://esolangs.org/wiki/Brainfuck)
+
 ***
 
 ## Система программирования
