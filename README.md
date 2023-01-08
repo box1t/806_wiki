@@ -29,13 +29,12 @@ Inspired by V.E. Zaytcev
 
 # Вопросы экзамена
 
-
-
 - [Декабрьский зачёт](/lectures/1sem/december_zachet.md)
 - [Январь. Архитектура компьютера](/lectures/1sem/exam_zhelezo.md)
 - [Январь. Программирование](/lectures/1sem/exam_proga.md)
 
 ***
+
 - [День 16. Консультация к экзамену](/lectures/1sem/day16/day16.md)
 
 ***
@@ -43,7 +42,6 @@ Inspired by V.E. Zaytcev
 <a name="lections"></a>
 
 # Лекции
-
 
 
 ## Глава 1. Основные понятия информатики
@@ -59,14 +57,15 @@ Inspired by V.E. Zaytcev
 - [День 6. Теоремы о сочетании алгоритмов](/lectures/1sem/day6/day6_1.md)
 - [День 7. Схемы МТ, теорема Бойма, Универсальная МТ](/lectures/1sem/day7/day7.md)
 - [День 8. Машина фон Неймана](/lectures/1sem/day8/day8.md)
+
 ***
 
 ## Глава 3. Концепция ЯП для машины фон Неймана
 - [День 6. Системы программирования](/lectures/1sem/day6/day6_2.md)
-- [День 10. ](/lectures/1sem/day10/day10.md) 
-- [День 11. ](/lectures/1sem/day11/day11.md)
-- [День 12. ](/lectures/1sem/day12/day12.md)
-- [День 13. ](/lectures/1sem/day13/day13.md)
+- [День 10. Элементы дейкстровской нотации](/lectures/1sem/day10/day10.md) 
+- [День 11. Типы данных](/lectures/1sem/day11/day11.md)
+- [День 12. Файлы, блоки](/lectures/1sem/day12/day12.md)
+- [День 13. Критика фон Неймана, Pascal, рекурсия](/lectures/1sem/day13/day13.md)
 
 ## Архитектура компьютера (железки)
 - [День 9. Архитектура компьютера. Вопросы 1-12](/lectures/1sem/day9/day9.md)
@@ -74,7 +73,7 @@ Inspired by V.E. Zaytcev
 - [День 15. Архитектура компьютера. Вопросы 36-72](/lectures/1sem/day15/day15.md)
 
 ## Доп.главы курса 
-- [Противостояние C и Pascal](/lectures/1sem/addition/Противостояние%20C%20и%20Pascal.md) — отличная тема для обсуждений!
+- [Противостояние C и Pascal](/lectures/1sem/addition/Противостояние%20C%20и%20Pascal.md)
 - [Комбинаторная логика](lectures/1sem/day6/Комбинаторная%20логика.md)
 
 ## Как всё это выучить?
